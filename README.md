@@ -5,11 +5,11 @@ This document entails the privacy policy and agreement that you accept when addi
 
 ### Bots, Services, and Servers
 The following is a list of bots to which this privacy policy applies.
-* **Guffy**#4042 (1013635395172454521)
+* **TacBot#9166 (1013635395172454521)
 
 
 This privacy policy also applies to all of these sites and subdomains of these sites:
-* **guffy.bot**
+* **tac.bot**
 
 
 
