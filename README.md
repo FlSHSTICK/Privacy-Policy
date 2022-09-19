@@ -9,7 +9,7 @@ The following is a list of bots to which this privacy policy applies.
 
 
 This privacy policy also applies to all of these sites and subdomains of these sites:
-* **tac.bot**
+**tac.bot**
 
 
 
