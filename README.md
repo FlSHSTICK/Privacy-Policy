@@ -5,11 +5,11 @@ This document entails the privacy policy and agreement that you accept when addi
 
 ### Bots, Services, and Servers
 The following is a list of bots to which this privacy policy applies.
-* **TacBot#9166 (1013635395172454521)
+* **Renegade#2308 (1066065879080636516)
 
 
 This privacy policy also applies to all of these sites and subdomains of these sites:
-**tac.bot**
+**Renegade#2308**
 
 
 
@@ -48,8 +48,6 @@ Feedback on any and all provided bots and services is appreciated. When you subm
 
 
 ### Agreement
-By adding any of isaac's or fishsticks's bots to your server or using these bots or services in any way, you are consenting to the policies outlined in this document. In addition, you (the server manager) are agreeing to inform your members of the [Developer Terms of Service](https://discordapp.com/developers/docs/legal) and the contents of this document. If you, the server manager, do not agree to this document, you may remove the bot(s) from the server. If you, the server member, do not agree to this document, you may leave the server that contains the bot(s). If you, the service user, do not agree to this document, you may revoke authorization of the application(s) in your 'Authorized Apps' menu.
+By adding any of fishsticks's bots to your server or using these bots or services in any way, you are consenting to the policies outlined in this document. In addition, you (the server manager) are agreeing to inform your members of the [Developer Terms of Service](https://discordapp.com/developers/docs/legal) and the contents of this document. If you, the server manager, do not agree to this document, you may remove the bot(s) from the server. If you, the server member, do not agree to this document, you may leave the server that contains the bot(s). If you, the service user, do not agree to this document, you may revoke authorization of the application(s) in your 'Authorized Apps' menu.
 
--Fishstick#0001
--!TacticalPlayz#0001
--Isaac.#0002
+-fishstick#0001
