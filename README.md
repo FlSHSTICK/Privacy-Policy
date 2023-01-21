@@ -5,11 +5,11 @@ This document entails the privacy policy and agreement that you accept when addi
 
 ### Bots, Services, and Servers
 The following is a list of bots to which this privacy policy applies.
-* **Renegade#2308 (1066065879080636516)
+* **GloomBot#2308 (1066065879080636516)
 
 
 This privacy policy also applies to all of these sites and subdomains of these sites:
-**Renegade#2308**
+**GloomBot#2308**
 
 
 
